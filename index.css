@@ -1,0 +1,8 @@
+#nav{
+    display: flex;
+    border: 1px solid;
+}
+.a{
+    background-color: blue;
+    color: brown;
+}
